@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="PT Spectrum Indowibawa" width="400" />
+</p>
+
 # PT Spectrum Indowibawa
 
 PT Spectrum Indowibawa (spectrumindo.com) is a distributor of networking and telecommunications equipment in Indonesia. Its products include access points, wireless routers, switches, antennas, and server racks, for both indoor and outdoor use. The company is part of the PT Dutakom Wibawa Putra (DNET) group.
