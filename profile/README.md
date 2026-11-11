@@ -6,6 +6,6 @@ Besides selling hardware, Spectrum provides system integration for enterprise an
 
 It has offices in two cities:
 
-- Surabaya: Ciputra World Office Tower 30th Floor, Jl. Mayjen Sungkono No. 89
+- **Surabaya:** Ciputra World Office Tower 30th Floor, Jl. Mayjen Sungkono No. 89
 
-- Jakarta: Ruko Harco Elektronik Mangga Dua H-6, Jl. Mangga Dua Raya, Central Jakarta
+- **Jakarta:** Ruko Harco Elektronik Mangga Dua H-6, Jl. Mangga Dua Raya, Central Jakarta
